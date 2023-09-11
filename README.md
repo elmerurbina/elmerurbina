@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @elmerurbina
+- 👋 Hello, I’m Elmer Urbina Meneses
 - Welcome to my GitHub profile. Here, you will find information about me and the projects I am working on.
 - 👀 I’m interested in: Python, Automation, AI, Machine Learning and web development.
 -  I’m currently learning: Python, Django, NLTK, Java, MySQL, Tensor flow, Pandas.
