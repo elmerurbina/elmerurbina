@@ -7,7 +7,7 @@
 
 -  Here are some of the projects I am currently working on.
 
--  [Message Automator] (https://github.com/elmerurbina/Automatic-message-sender) It is a website that send messages automated to a specific time, via WhatsApp
+-  [Message Automator] (https://github.com/elmerurbina/Automator) It is a project to allow users send automated messages, scheduled to specific time, via WhatsApp, Email, or sent the message every 24 hours/ 8 hours or every time the user want
 -  [FreudBot]  (https://github.com/elmerurbina/Innovators) This project is a Bot that use the Cognitive Behavior Therapy as a human psychologist
 
    #Skills
