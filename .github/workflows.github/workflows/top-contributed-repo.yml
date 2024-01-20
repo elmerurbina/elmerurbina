@@ -1,0 +1,26 @@
+# .github/workflows/top-contributed-repo.yml
+
+name: Update Top Contributed Repo
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Schedule to run daily, adjust as needed
+
+jobs:
+  update-top-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Top Contributed Repo
+        run: node update-top-contributed-repo.js
