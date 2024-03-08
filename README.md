@@ -37,6 +37,10 @@ I am open to collaborating on open source projects related to AI, Machine Learni
 ## 📬 Contact
 
 - Email: elmerurbina570@gmail.com
+- [![Dev Community](https://img.icons8.com/color/48/000000/dev.png)](https://dev.to/elmerurbina)
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/elmer-urbina-meneses-290a3b208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![Stack Overflow](https://img.icons8.com/color/48/000000/stackoverflow.png)](https://stackoverflow.com/users/22451823/elmer-urbina-meneses?tab=profile)
+- [![Quora](https://img.icons8.com/fluency/48/000000/quora.png)](https://www.quora.com/profile/Elmer-Urbina-Meneses)
 
 ## 🌈 Interests
 
