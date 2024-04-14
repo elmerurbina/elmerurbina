@@ -8,8 +8,10 @@ I'm Elmer Urbina, a passionate learner and developer with interests in AI, Machi
 
 - [Freud AI](https://github.com/elmerurbina/freud-ai): A psychology chatbot.
 - [Automator](https://github.com/elmerurbina/automator): Award-winning WhatsApp automation web page.
+-  [File Encrypter/Decrypter](https://github.com/elmerurbina/enc): Python program with Tkinter and Cryptography for encryp and desencrypt files.
 - [English tests](https://github.com/elmerurbina/english): English test web page for Spanish speakers learning English.
 - [FarmTech](https://github.com/farmtech24/farmtech): Production and inventories management on bovines. Register all the cows.
+
 
 ## 🔧 Skills
 
@@ -64,7 +66,7 @@ Enthusiastic about Programming, Science, astrophysics, and project management.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmerurbina&show_icons=true&exclude_repos=freud-ai,automator,english,farmtech)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmerurbina&show_icons=true&exclude_repos=freud-ai,automator,english,farmtech,freud.ia,enc,elmer-portfolio,translator-ai)
 
 ## Most Used Languages
 
