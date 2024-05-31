@@ -8,10 +8,9 @@ I'm Elmer Urbina, a passionate learner and developer with interests in AI, Machi
 
 - [Freud AI](https://github.com/elmerurbina/freud-ai): A psychology chatbot.
 - [Automator](https://github.com/elmerurbina/automator): Award-winning WhatsApp automation web page.
--  [File Encrypter/Decrypter](https://github.com/elmerurbina/enc): Python program with Tkinter and Cryptography for encryp and desencrypt files.
+- [File Encrypter/Decrypter](https://github.com/elmerurbina/enc): Python program with Tkinter and Cryptography for encrypting and decrypting files.
 - [English tests](https://github.com/elmerurbina/english): English test web page for Spanish speakers learning English.
 - [FarmTech](https://github.com/farmtech24/farmtech): Production and inventories management on bovines. Register all the cows.
-
 
 ## 🔧 Skills
 
@@ -34,7 +33,7 @@ Currently, I'm actively learning and improving my skills in:
 
 ## 🌟 Open to Collaboration
 
-I am open to collaborating on open source projects related to AI, Machine Learning, web development.
+I am open to collaborating on open source projects related to AI, Machine Learning, and web development.
 
 ## 📬 Contact
 
@@ -46,7 +45,7 @@ I am open to collaborating on open source projects related to AI, Machine Learni
 
 ## 🌈 Interests
 
-Enthusiastic about Programming, Science, astrophysics, and project management.
+Enthusiastic about Programming, Science, Astrophysics, and Project Management.
 
 ## TechStack
 
@@ -78,3 +77,58 @@ Enthusiastic about Programming, Science, astrophysics, and project management.
 - [Automator](https://github.com/elmerurbina/automator)
 - [English tests](https://github.com/elmerurbina/english)
 - [Encryption Decryption program](https://github.com/elmerurbina/enc)
+
+# 📚 Documentation
+
+> <sup>*⚠️ This is the documentation of **v3.35-beta** (`@master`/`@main` branches) which includes [unreleased features](https://github.com/lowlighter/metrics/compare/latest...master) planned for the next release. See documentation for the current released version [**v3.34** (`@latest` branch) here](https://github.com/lowlighter/metrics/blob/latest/README.md).* </sup>
+
+## 🦮 Setup
+
+There are several ways to set up metrics, each having its advantages and disadvantages:
+
+* [⚙️ Using GitHub Action on a profile repository *(~10 min)*](/.github/readme/partials/documentation/setup/action.md)
+  * ✔️ All features
+  * ✔️ High availability (no downtimes)
+  * ➖ Configuration can be a bit time-consuming
+* [💕 Using the shared instance *(~1 min)*](/.github/readme/partials/documentation/setup/shared.md)
+  * ✔️ Easily configurable and previewable
+  * ➖ Limited features *(compute-intensive features are disabled)*
+* [🏗️ Deploying a web instance *(~20 min)*](/.github/readme/partials/documentation/setup/web.md)
+  * ✔️ Create another shared instance
+  * ➖ Requires some sysadmin knowledge
+* [🐳 Using command line with docker *(~2 min)*](/.github/readme/partials/documentation/setup/docker.md)
+  * ✔️ Suited for one-time rendering
+* [🔧 Local setup for development *(~20 min)*](/.github/readme/partials/documentation/setup/local.md)
+
+Additional resources for setup:
+* [🏦 Configure metrics for organizations](/.github/readme/partials/documentation/organizations.md)
+* [🏠 Run metrics on self-hosted runners](/.github/readme/partials/documentation/selfhosted.md)
+* [🧰 Template/Plugin compatibility matrix](/.github/readme/partials/documentation/compatibility.md)
+
+## 🖼️ Templates
+
+Templates let you change the general appearance of rendered metrics.
+
+* [📗 Classic template <sub>`classic`</sub>](/source/templates/classic/README.md)
+* [📘 Repository template <sub>`repository`</sub>](/source/templates/repository/README.md)
+* [📙 Terminal template <sub>`terminal`</sub>](/source/templates/terminal/README.md)
+* [📒 Markdown template <sub>`markdown`</sub>](/source/templates/markdown/README.md)
+* [📕 Community templates <sub>`community`</sub>](/source/templates/community/README.md)
+
+## 🧩 Plugins
+
+Plugins provide additional content and let you customize rendered metrics.
+
+**📦 Maintained by core team**
+
+* **Core plugins**
+  * [🗃️ Base content <sub>`base`</sub>](/source/plugins/base/README.md)
+  * [🧱 Core <sub>`core`</sub>](/source/plugins/core/README.md)
+* **GitHub plugins**
+  * [🏆 Achievements <sub>`achievements`</sub>](/source/plugins/achievements/README.md)
+  * [📰 Recent activity <sub>`activity`</sub>](/source/plugins/activity/README.md)
+  * [📆 Commit calendar <sub>`calendar`</sub>](/source/plugins/calendar/README.md)
+  * [♐ Random code snippet <sub>`code`</sub>](/source/plugins/code/README.md)
+  * [🏅 Repository contributors <sub>`contributors`</sub>](/source/plugins/contributors/README.md)
+  * [💬 Discussions <sub>`discussions`</sub>](/source/plugins/discussions/README.md)
+  * [🎟️ Follow-up of issues and pull requests <sub>`
