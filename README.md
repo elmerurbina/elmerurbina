@@ -1,44 +1,114 @@
-# Elmer Urbina
+# 🌿 Hello, I'm Elmer Urbina 👋  
 
-# 💫 About Me:
-<br>I'm Elmer Urbina, a passionate learner and developer with interests in AI, Machine Learning, web development, and Python programming. Currently, I am working on Freud AI, a psychology chatbot. I also secured second place at Feria de ciencia y tecnología UNI - Nicaragua for "Automator," a WhatsApp automation page.<br><br>🚀 Current Projects<br><br>- [Freud AI](https://github.com/elmerurbina/freud-ai): A psychology chatbot.<br>- [Automator](https://github.com/elmerurbina/automator): Award-winning WhatsApp automation web page.<br>- [File Encrypter/Decrypter](https://github.com/elmerurbina/enc): Python program with Tkinter and Cryptography for encrypting and decrypting files.<br>- [English tests](https://github.com/elmerurbina/english): English test web page for Spanish speakers learning English.<br> <br><br> 🌐 Learning Journey<br><br>Currently, I'm actively learning and improving my skills in:<br><br>- Python: Exploring advanced concepts and best practices.<br>- JavaScript: Expanding my knowledge for dynamic web development.<br>- AI and Machine Learning: Enhancing my understanding through hands-on projects.<br>- Tkinter: Mastering GUI development in Python.<br><br> 🌟 Open to Collaboration<br><br>I am open to collaborating on open source projects related to AI, Machine Learning, and web development.<br><br> 🌈 Interests<br><br>Enthusiastic about Programming, Science, Astrophysics, and Project Management.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/elmer-urbina-meneses-290a3b208)) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/elmerurbina570) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Elmer-Urbina-Meneses) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22451823/elmer-urbina-meneses?tab=profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@elmer85151) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elmerurbina&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elmerurbina&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerurbina&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elmerurbina&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Welcome to my GitHub! I'm a passionate developer working on innovative solutions in sustainability, AI, and community-driven projects. 🚀 I love building efficient, scalable, and human-centric applications that make a real-world impact.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=elmerurbina&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **Socials**  
 
-
-## 🔧 Skills
-
-- Python ![Python](https://img.icons8.com/color/48/000000/python.png) (Intermediate)
-- Flask ![Flask](https://img.icons8.com/color/48/000000/flask.png) (Intermediate)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) (Basic)
-- Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) (Basic)
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png) (High-Intermediate)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) (Intermediate)
-- MySQL ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) (Basic)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmer%20Urbina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmerurbina)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40ElmerUrbina1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ElmerUrbina1)  
+[![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/ElmerUrbina)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-ElmerUrbina-black?style=for-the-badge&logo=devdotto)](https://dev.to/elmerurbina)
+[![Coder Legion](https://img.shields.io/badge/Coder%20Legion-Elmer%20Urbina-purple?style=for-the-badge&logo=data:image/png;base64)](https://coderlegion.com/user/Elmer+Urbina)
 
 
-## 📈 Metrics
+---
 
-![Metrics](https://github.com/elmerurbina/elmerurbina/blob/main/github-metrics.svg)
+## 📊 **GitHub Metrics**  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElmerUrbina&theme=vue)  
+![](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&theme=radical&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast)  
+
+---
+
+## 🛠 **Tech Stack**  
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+**Frameworks & Tools**  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=data:image/png;base64)  
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=flat-square&logo=css3&logoColor=white)  
+
+
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & CI/CD**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌱 **Current Projects**  
+
+- **Freud IA** 🧠: An AI-driven platform for mental health, providing a virtual assistant capable of simulating therapeutic interactions.  
+- **VerdeNica** 🌿: A web system focused on raising awareness about climate change and sustainability.  
+- **EnglishTest** 🌐: A web platform designed to help Spanish speakers improve their English proficiency.  
+- **File Encrypter/Decrypter** 🔐: A Python-based tool using Tkinter and cryptography for secure file encryption and decryption.  
+- **Automator** 🤖: An award-winning WhatsApp automation web page, recognized at the Feria de Ciencia y Tecnología in Managua 2023.  
+- **AI Transcriptor** 🎤: A speech-to-text AI solution developed for a Dev.to challenge.  
+- **Analisis Anova** 📊: A statistical analysis project featuring scripts for solving ANOVA problems.
+
+---
+
+## 🤖 **AI & Machine Learning**  
+
+I’m currently working on:  
+- **Freud IA**, an advanced virtual mental health assistant using natural language processing (NLP).  
+---
+
+## 🏆 **Achievements**  
+
+
+- 🥇 **First Place** at the **Rally Nacional** with my team **EcoNic**.  
+  ![](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/457024912_892503509593915_1486563010139215756_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ofrkI_MJxLEQ7kNvgFNykks&_nc_oc=AdieDS6KdzT0bfXVHc10GpKgANYAjBO74jveMqfq-N5sQxDmejef0XbmLE7Tvad8D_Y&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=A6fMeYjqDdn-Sp2h8MwnTAo&oh=00_AYBKsHQxkxIV5W0J4gl96cQMOdvLeV27cl5pT-1EeSuUNg&oe=678859E7)
+  - 🥇 **First Place at Innovation UNI 2024**  
+  ![Innovation UNI 2024](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/451481329_965487145587160_6094329474107696351_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Fvv_8cxieXcQ7kNvgFq7YdU&_nc_oc=AdizfEmbRFpILqPEPU51fZIz1-tAx8tRO3OfDQ-J47exbToNE7zsT_BX4QZbnF1dp2I&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AO7hxS2ZujY5VNoqk1SDcEO&oh=00_AYBtqjknRwVoKn7XgaxMdNXIWX3DCBbnkPA6f5HWto9PeQ&oe=67883EA9)  
+  Recognized for developing innovative solutions using AI and web technologies.
+- 🥉 **Third Place** at the **Rally Latinoamericano 2024**, showcasing innovative solutions for sustainability.  
+  ![](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/462174049_921430106701255_8983556236642901220_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dGeyrijz1DsQ7kNvgH-rXMo&_nc_oc=AdhVLSoZF1n6C-Fmmki5lwppug7G5_ltJIoReGnnvGvr07jTmyw72fmT_Qzi5pW6NxE&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AXZozay3a1UJbrhcMBlxICM&oh=00_AYABdG47Lcga27CZ5rK7k9udKkg-UFzL4_xU3g-FHg9f7w&oe=67883B49)  
+- 🥈 **Second Place** at the **Feria de Ciencia y Tecnología in Managua 2023** with **Automator**.
+
+
+---
+
+## ✍️ **Articles**
+
+- [Meet Datasets: Understand Works Creating Expert System AI Models](https://coderlegion.com/410/meet-datasets-understand-works-creating-expert-system-artificial-intelligence-models)  
+- [Are You Using Generative AI Correctly?](https://coderlegion.com/480/are-you-using-generative-ai-correctly)  
+- [Develop a Python Flask Web App and Deploy on PythonAnywhere](https://dev.to/elmerurbina/develop-a-python-flask-web-app-and-deploy-on-pythonanywhere-step-by-step-4j0h)
+
+---
+
+## 📊 **Most Used Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmerUrbina&layout=compact&theme=radical)
+
+
+---
+
+## ✨ **Fun Facts**  
+
+- I enjoy learning about environmental laws and developing apps that promote sustainability.  
+- I believe technology can be a powerful tool for social good.  
+- When I’m not coding, I love exploring meditation and wellness topics. 🧘‍♂️
+
+---
+
+Thanks for stopping by! Feel free to connect or collaborate with me on any of my ongoing projects. 😊
