@@ -6,10 +6,13 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 
 ## 🌐 **Socials**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmer%20Urbina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmerurbina)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmer%20Urbina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmer-urbina-meneses-290a3b208)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40ElmerUrbina1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ElmerUrbina1)  
-[![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/ElmerUrbina)  
+[![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/elmerurbina)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40ElmerUrbina1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ElmerUrbina1)  
+[![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/elmerurbina)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-ElmerUrbina-black?style=for-the-badge&logo=devdotto)](https://dev.to/elmerurbina)
+
 [![Coder Legion](https://img.shields.io/badge/Coder%20Legion-Elmer%20Urbina-purple?style=for-the-badge&logo=data:image/png;base64)](https://coderlegion.com/user/Elmer+Urbina)
 
 
@@ -83,7 +86,8 @@ I’m currently working on:
   Recognized for developing innovative solutions using AI and web technologies.
 - 🥉 **Third Place** at the **Rally Latinoamericano 2024**, showcasing innovative solutions for sustainability.  
   ![](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/462174049_921430106701255_8983556236642901220_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dGeyrijz1DsQ7kNvgH-rXMo&_nc_oc=AdhVLSoZF1n6C-Fmmki5lwppug7G5_ltJIoReGnnvGvr07jTmyw72fmT_Qzi5pW6NxE&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AXZozay3a1UJbrhcMBlxICM&oh=00_AYABdG47Lcga27CZ5rK7k9udKkg-UFzL4_xU3g-FHg9f7w&oe=67883B49)  
-- 🥈 **Second Place** at the **Feria de Ciencia y Tecnología in Managua 2023** with **Automator**.
+- 🥈 **Second Place** at the **[Feria de Ciencia y Tecnología in Managua 2023 ** with **Automator**.](https://media.licdn.com/dms/image/v2/D4E22AQELMO9WaV5QuQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1697837722175?e=1739404800&v=beta&t=G6CxJ-v_YgVxQhlvIRFa0HjgnErkGS-NWSV6eAfeHx0)
+
 
 
 ---
