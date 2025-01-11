@@ -80,12 +80,15 @@ I’m currently working on:
 
 
 - 🥇 **First Place** at the **Rally Nacional** with my team **EcoNic**.  
-  ![](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/457024912_892503509593915_1486563010139215756_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ofrkI_MJxLEQ7kNvgFNykks&_nc_oc=AdieDS6KdzT0bfXVHc10GpKgANYAjBO74jveMqfq-N5sQxDmejef0XbmLE7Tvad8D_Y&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=A6fMeYjqDdn-Sp2h8MwnTAo&oh=00_AYBKsHQxkxIV5W0J4gl96cQMOdvLeV27cl5pT-1EeSuUNg&oe=678859E7)
-  - 🥇 **First Place at Innovation UNI 2024**  
-  ![Innovation UNI 2024](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/451481329_965487145587160_6094329474107696351_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Fvv_8cxieXcQ7kNvgFq7YdU&_nc_oc=AdizfEmbRFpILqPEPU51fZIz1-tAx8tRO3OfDQ-J47exbToNE7zsT_BX4QZbnF1dp2I&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AO7hxS2ZujY5VNoqk1SDcEO&oh=00_AYBtqjknRwVoKn7XgaxMdNXIWX3DCBbnkPA6f5HWto9PeQ&oe=67883EA9)  
+  [Link to the image](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/457024912_892503509593915_1486563010139215756_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ofrkI_MJxLEQ7kNvgFNykks&_nc_oc=AdieDS6KdzT0bfXVHc10GpKgANYAjBO74jveMqfq-N5sQxDmejef0XbmLE7Tvad8D_Y&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=A6fMeYjqDdn-Sp2h8MwnTAo&oh=00_AYBKsHQxkxIV5W0J4gl96cQMOdvLeV27cl5pT-1EeSuUNg&oe=678859E7)
+
+- 🥇 **First Place at Innovation UNI 2024 with EcoNic**  
+  [Link to the image](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/451481329_965487145587160_6094329474107696351_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Fvv_8cxieXcQ7kNvgFq7YdU&_nc_oc=AdizfEmbRFpILqPEPU51fZIz1-tAx8tRO3OfDQ-J47exbToNE7zsT_BX4QZbnF1dp2I&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AO7hxS2ZujY5VNoqk1SDcEO&oh=00_AYBtqjknRwVoKn7XgaxMdNXIWX3DCBbnkPA6f5HWto9PeQ&oe=67883EA9)  
   Recognized for developing innovative solutions using AI and web technologies.
-- 🥉 **Third Place** at the **Rally Latinoamericano 2024**, showcasing innovative solutions for sustainability.  
-  ![](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/462174049_921430106701255_8983556236642901220_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dGeyrijz1DsQ7kNvgH-rXMo&_nc_oc=AdhVLSoZF1n6C-Fmmki5lwppug7G5_ltJIoReGnnvGvr07jTmyw72fmT_Qzi5pW6NxE&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AXZozay3a1UJbrhcMBlxICM&oh=00_AYABdG47Lcga27CZ5rK7k9udKkg-UFzL4_xU3g-FHg9f7w&oe=67883B49)  
+
+- 🥉 **Third Place with EcoNic** at the **Rally Latinoamericano 2024**, showcasing innovative solutions for sustainability.  
+  [Link to the image](https://scontent.fmga9-2.fna.fbcdn.net/v/t39.30808-6/462174049_921430106701255_8983556236642901220_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=dGeyrijz1DsQ7kNvgH-rXMo&_nc_oc=AdhVLSoZF1n6C-Fmmki5lwppug7G5_ltJIoReGnnvGvr07jTmyw72fmT_Qzi5pW6NxE&_nc_zt=23&_nc_ht=scontent.fmga9-2.fna&_nc_gid=AXZozay3a1UJbrhcMBlxICM&oh=00_AYABdG47Lcga27CZ5rK7k9udKkg-UFzL4_xU3g-FHg9f7w&oe=67883B49)
+
 - 🥈 **Second Place** at the **[Feria de Ciencia y Tecnología in Managua 2023 **.](https://media.licdn.com/dms/image/v2/D4E22AQELMO9WaV5QuQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1697837722175?e=1739404800&v=beta&t=G6CxJ-v_YgVxQhlvIRFa0HjgnErkGS-NWSV6eAfeHx0)
  with **Automator**
 
