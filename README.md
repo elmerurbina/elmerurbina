@@ -24,6 +24,8 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&theme=radical&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast)  
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/elmerurbina?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ---
 
 ## 🛠 **Tech Stack**  
