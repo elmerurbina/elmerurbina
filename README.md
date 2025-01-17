@@ -24,9 +24,11 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&theme=radical&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast)  
 ![GitHub followers](https://img.shields.io/github/followers/elmerurbina?style=social)  
-![GitHub visits](https://img.shields.io/github/visit/elmerurbina?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/elmerurbina?style=social)  
 
 ![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerurbina&show_icons=true&hide=python&count_private=true&layout=compact&hide_border=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmerurbina&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
 
 
