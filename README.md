@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 [![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/elmerurbina)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-ElmerUrbina-black?style=for-the-badge&logo=devdotto)](https://dev.to/elmerurbina)
 
-[![Coder Legion](https://img.shields.io/badge/Coder%20Legion-Elmer%20Urbina-purple?style=for-the-badge&logo=data:image/png;base64)](https://coderlegion.com/user/Elmer+Urbina)
+[![Coder Legion](https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F9939%2Fbf7868c4-daf3-4f50-ba64-5ab3cf903230.jpg)](https://coderlegion.com/user/Elmer+Urbina)
 
 
 ---
