@@ -23,6 +23,10 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElmerUrbina&theme=vue)  
 ![](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&theme=radical&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast)  
+![](https://img.shields.io/github/followers/{elmerurbina}?style=social)  
+![](https://img.shields.io/github/visit/{elmerurbina}?style=social)
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username={elmerurbina}&show_icons=true&hide=python&count_private=true&layout=compact&hide_border=true&theme=radical)
+
 
 ---
 
@@ -67,6 +71,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 - **Automator** 🤖: An award-winning WhatsApp automation web page, recognized at the Feria de Ciencia y Tecnología in Managua 2023.  
 - **AI Transcriptor** 🎤: A speech-to-text AI solution developed for a Dev.to challenge.  
 - **Analisis Anova** 📊: A statistical analysis project featuring scripts for solving ANOVA problems.
+- **Profile Keeper** is a simple, open-source solution for managing multiple online profiles in one place. The project is designed to help users simplify and organize their digital profiles, making it easier to keep track of online identities without the need to manage numerous accounts across different platforms. [For more information check this post on Coder Legion](https://coderlegion.com/843/profilekeeper-simplify-and-organize-your-digital-profiles-in-one-place)
 
 ---
 
