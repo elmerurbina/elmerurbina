@@ -72,7 +72,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 - **Automator** 🤖: An award-winning WhatsApp automation web page, recognized at the Feria de Ciencia y Tecnología in Managua 2023.  
 - **AI Transcriptor** 🎤: A speech-to-text AI solution developed for a Dev.to challenge.  
 - **Analisis Anova** 📊: A statistical analysis project featuring scripts for solving ANOVA problems.
-- **Profile Keeper** is a simple, open-source solution for managing multiple online profiles in one place. The project is designed to help users simplify and organize their digital profiles, making it easier to keep track of online identities without the need to manage numerous accounts across different platforms. [For more information check this post on Coder Legion](https://coderlegion.com/843/profilekeeper-simplify-and-organize-your-digital-profiles-in-one-place)
+- **Profile Keeper** 🛡️: is a simple, open-source solution for managing multiple online profiles in one place. The project is designed to help users simplify and organize their digital profiles, making it easier to keep track of online identities without the need to manage numerous accounts across different platforms. [For more information check this post on Coder Legion](https://coderlegion.com/843/profilekeeper-simplify-and-organize-your-digital-profiles-in-one-place)
 
 ---
 
