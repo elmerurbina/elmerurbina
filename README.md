@@ -109,8 +109,7 @@ I’m currently working on:
 
 ## 📊 **Most Used Languages**
 
-![Top Languages](https://metrics.lecoq.io/ElmerUrbina?template=classic&languages=1&repositories.private=true&languages.colors=github&languages.threshold=0%)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmerUrbina&layout=compact&theme=radical&hide=html,css&count_private=true&langs_count=8)
 
 ---
 
