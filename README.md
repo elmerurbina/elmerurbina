@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast&include_all_commits=true)  
 
 ![GitHub Metrics](github-metrics.svg)
-![Languages](https://metrics.lecoq.io/ElmerUrbina?template=classic&languages=1&repositories.private=true)
+
 
 ---
 
@@ -109,7 +109,7 @@ I’m currently working on:
 
 ## 📊 **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmerUrbina&layout=compact&theme=radical)
+![Top Languages](https://metrics.lecoq.io/ElmerUrbina?template=classic&languages=1&repositories.private=true&languages.colors=github&languages.threshold=0%)
 
 
 ---
