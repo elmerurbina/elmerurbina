@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast&include_all_commits=true)  
 
-*Private contributions included. Stats update hourly.*
+![GitHub Metrics](github-metrics.svg)
 
 ---
 
