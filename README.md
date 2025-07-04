@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast&include_all_commits=true)  
 
 ![GitHub Metrics](github-metrics.svg)
+![Languages](https://metrics.lecoq.io/ElmerUrbina?template=classic&languages=1&repositories.private=true)
 
 ---
 
