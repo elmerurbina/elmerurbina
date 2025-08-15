@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer working on innovative solutions
 ## 🌐 **Socials**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmer%20Urbina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmer-urbina-meneses-290a3b208)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40ElmerUrbina1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ElmerUrbina1)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40ElmerUrbina1-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@elmer85151)  
 [![GitHub](https://img.shields.io/badge/GitHub-ElmerUrbina-lightgrey?style=for-the-badge&logo=github)](https://github.com/elmerurbina)  
 [![Dev.to](https://img.shields.io/badge/Dev.to-ElmerUrbina-black?style=for-the-badge&logo=devdotto)](https://dev.to/elmerurbina)
 
