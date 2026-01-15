@@ -28,15 +28,10 @@ Passionate about building impactful digital solutions that bridge technology wit
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-![Elmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElmerUrbina&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=radical&bg_color=30,0d1b2a,1b263b&title_color=4cc9f0&text_color=e0e1dd&icon_color=4cc9f0&border_color=415a77&include_all_commits=true)
+![Metrics](./github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElmerUrbina&layout=compact&theme=radical&bg_color=30,1b263b,0d1b2a&title_color=4cc9f0&text_color=e0e1dd&border_color=415a77&hide=html,css&count_private=true&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElmerUrbina&theme=highcontrast&background=0d1b2a&border=415a77&stroke=778da9&ring=4cc9f0&fire=ff9e00&currStreakNum=e0e1dd&sideNums=e0e1dd&currStreakLabel=4cc9f0&sideLabels=4cc9f0&dates=778da9&include_all_commits=true)
-
-</div>
 
 
 
