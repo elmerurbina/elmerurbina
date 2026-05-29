@@ -274,14 +274,6 @@ Passionate about building impactful digital solutions that bridge technology wit
 ---
 
 
-
-### **🎯 Key Performance Indicators:**
-
-- **🧠 Freud IA:** 1000+ simulated therapy sessions
-- **🐮 HatoMaster:** Targeting 500+ Nicaraguan ranchers
-
----
-
 <div align="center">
 
 ## 🚀 Let's Build Something Amazing Together
